@@ -2,7 +2,7 @@ name="01. Fire and Ice" url="https://downloads.guidos-skinbase.de/skin_topics/si
 
 name="02. Assassins" url="https://downloads.guidos-skinbase.de/skin_topics/silvo/assassins/modified_topics.zip?raw=true"
 
-name="03. Anonymos" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/master/silvo/Anonymos/modified_topics.zip?raw=true"
+name="03. Anonymos" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/silvo/Anonymos/modified_topics.zip?raw=true"
 
 name="04. Alien VS Predator" url="https://downloads.guidos-skinbase.de/skin_topics/silvo/alien.vs.predator/modified_topics.zip?raw=true"
 
