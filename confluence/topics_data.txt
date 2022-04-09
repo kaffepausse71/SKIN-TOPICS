@@ -1,4 +1,6 @@
-name="Gif Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/confluence/1_gif/modified_topics.zip?raw=true"
+name="Gif1 Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/confluence/1_gif/modified_topics.zip?raw=true"
+name="Gif2 Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/confluence/10_gif/modified_topics.zip?raw=true"
+
 name="Tiere Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/confluence/2_tiere/modified_topics.zip?raw=true"
 name="Serien Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/confluence/3_serien/modified_topics.zip?raw=true"
 name="Filme Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/confluence/4_filme/modified_topics.zip?raw=true"
