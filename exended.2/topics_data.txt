@@ -1,4 +1,4 @@
-name="Adler Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/adler/modified_topics.zip?raw=true"
-name="Löwen Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/adler/modified_topics.zip?raw=true"
+name="Adler Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/Adler/modified_topics.zip?raw=true"
+name="Löwen Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/Löwen/modified_topics.zip?raw=true"
 
 
