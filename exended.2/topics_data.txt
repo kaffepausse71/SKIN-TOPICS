@@ -1,9 +1,10 @@
-name="Adler Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/Adler/modified_topics.zip?raw=true"
-name="Löwen Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/Löwen/modified_topics.zip?raw=true"
-name="Lion Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/Löwen2/modified_topics.zip?raw=true"
-name="Meer Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/Meer/modified_topics.zip?raw=true"
-name="Ozean Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/Ozean/modified_topics.zip?raw=true"
-name="Ozean 2 Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/Ozean2/modified_topics.zip?raw=true"
-name="Sharks Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/Sharks/modified_topics.zip?raw=true"
+name="Adler Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/adler/modified_topics.zip?raw=true"
+name="Lion Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/lion/modified_topics.zip?raw=true"
+name="Lion 2 Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/lion2/modified_topics.zip?raw=true"
+name="Meer Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/meer/modified_topics.zip?raw=true"
+name="Ozean Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/ozean/modified_topics.zip?raw=true"
+name="Ozean 2 Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/ozean2/modified_topics.zip?raw=true"
+name="Sharks Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/sharks/modified_topics.zip?raw=true"
+name="Pferde Wallpaper" url="https://github.com/kaffepausse71/SKIN-TOPICS/blob/main/exended.2/pferde/modified_topics.zip?raw=true"
 
 
